@@ -3,5 +3,5 @@
 - endpoint:
     name: test
     description: test
-    image: python:3.7.6-slim-buster
+    image: python:3.7.6
     server-command: python endpoint.py
